@@ -2,4 +2,4 @@
 
 Getting started with new site
 
-editing on ios
+editing on Windows
