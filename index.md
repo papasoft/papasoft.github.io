@@ -1,5 +1,4 @@
 #Welcome to Papasoft on Github
 
-Getting started with new site
+Rick T
 
-editing on Windows
