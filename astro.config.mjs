@@ -3,7 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	integrations: [
+		site: 'https://papasoft.github.io',
+	  integrations: [
 		starlight({
 			title: 'Papasoft',
 			logo: {
