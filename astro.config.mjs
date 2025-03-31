@@ -14,7 +14,6 @@ export default defineConfig({
 			  },
 			social: {
 				github: 'https://github.com/papasoft',
-				linkedin: 'https://www.linkedin.com/in/ricktuttledev/',
 				instagram: 'https://www.instagram.com/papasoft/'
 			},
 			sidebar: [
